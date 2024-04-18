@@ -7,4 +7,6 @@ add_executable(CH11SHOPPINGBAGSP24 main.cpp
         Item.cpp
         Item.h
         ShopppingBags.cpp
-        ShopppingBags.h)
+        ShopppingBags.h
+        newCxxTest.cpp
+        newCxxTest.h)

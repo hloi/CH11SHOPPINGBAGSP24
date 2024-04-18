@@ -1,0 +1,14 @@
+//
+// Created by hloi on 4/18/2024.
+//
+
+#ifndef CH11SHOPPINGBAGSP24_NEWCXXTEST_H
+#define CH11SHOPPINGBAGSP24_NEWCXXTEST_H
+
+
+class newCxxTest {
+
+};
+
+
+#endif //CH11SHOPPINGBAGSP24_NEWCXXTEST_H
